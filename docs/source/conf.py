@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'PYHOPS'
+project = 'MESOHOPS'
 copyright = '2020, Doran Bennett, Leonel Varvelo'
 author = 'Doran Bennett, Leonel Varvelo'
 
