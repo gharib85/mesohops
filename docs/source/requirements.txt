@@ -1,4 +1,3 @@
-./mesohops
 alabaster==0.7.12
 appdirs==1.4.3
 atomium==1.0.2
@@ -67,3 +66,4 @@ urllib3==1.25.7
 valerius==0.2.0
 wcwidth==0.1.8
 zipp==3.0.0
+./mesohops
