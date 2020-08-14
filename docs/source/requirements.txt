@@ -66,4 +66,4 @@ urllib3==1.25.7
 valerius==0.2.0
 wcwidth==0.1.8
 zipp==3.0.0
-./mesohops
+-e git+https://github.com/MesoscienceLab/mesohops.git@12d99feb48b2a5786fea5100d3eb1f7733d23f64#egg=mesohops
