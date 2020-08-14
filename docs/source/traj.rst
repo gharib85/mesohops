@@ -1,10 +1,10 @@
 Trajectory package
 ==================
 
-mesohops.dynamics.hops\_trajectory class
-----------------------------------------
+dynamics.hops\_trajectory class
+-------------------------------
 
-.. automodule:: dynamics.hops_trajectory
+.. automodule:: mesohops.dynamics.hops_trajectory
    :members:
    :show-inheritance:
    :exclude-members:
