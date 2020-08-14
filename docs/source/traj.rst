@@ -16,6 +16,4 @@ dynamics.hops\_storage class
    :members:
    :show-inheritance:
    :exclude-members:   
-
-
-.. image:: pyhops_struct.png        
+      
