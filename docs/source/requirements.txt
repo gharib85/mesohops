@@ -1,4 +1,4 @@
-./
+-e ./
 alabaster==0.7.12
 appdirs==1.4.3
 atomium==1.0.2
