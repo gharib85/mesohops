@@ -15,6 +15,7 @@ Welcome to MESOHOPS documentation!
    traj   
    basis
    noise
+   dynamics
 
 Indices and tables
 ==================
