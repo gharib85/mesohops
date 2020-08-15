@@ -4,7 +4,7 @@ Noise package
 mesohops.dynamics.hops\_noise class
 --------------------------
 
-.. automodule:: dynamics.hops_noise
+.. automodule:: mesohops.dynamics.hops_noise
    :members:
    :show-inheritance:
    :exclude-members:
