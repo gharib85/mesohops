@@ -1,4 +1,4 @@
--e ./
+-e git+https://github.com/MesoscienceLab/mesohops.git@f3cb4b44a00e99636328231296694c0c838fd053#egg=mesohops
 alabaster==0.7.12
 appdirs==1.4.3
 atomium==1.0.2
