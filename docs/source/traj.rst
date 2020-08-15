@@ -9,10 +9,10 @@ mesohops.dynamics.hops\_trajectory class
    :show-inheritance:
    :exclude-members:
 
-dynamics.hops\_storage class
-----------------------------
+mesoshops.dynamics.hops\_storage class
+--------------------------------------
 
-.. automodule:: dynamics.hops_storage
+.. automodule:: mesohops.dynamics.hops_storage
    :members:
    :show-inheritance:
    :exclude-members:   
