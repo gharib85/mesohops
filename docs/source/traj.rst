@@ -1,7 +1,7 @@
 Trajectory package
 ==================
 
-dynamics.hops\_trajectory class
+mesohops.dynamics.hops\_trajectory class
 -------------------------------
 
 .. automodule:: mesohops.dynamics.hops_trajectory
